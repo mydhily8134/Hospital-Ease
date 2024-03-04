@@ -1,4 +1,4 @@
-# Clinic_Hospital_Management
+#Hospital Ease
 
 IMPORTANT INSTRUCTIONS HOW TO RUN THE PROJECT :-
 
