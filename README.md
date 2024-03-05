@@ -8,21 +8,6 @@ In login page
   user name: Hospital Ease
   password : 534202
 
-Create a database for the students in mysql commandline using following Commands:
-
-1.  CREATE DATABASE PATIENTS_DB;
-
-2.   USE PATIENTS_DB;
-   
-3.  CREATE TABLE `patients` (
-  `MOBILE` varchar(200) NOT NULL,
-  `NAME` varchar(200) NOT NULL,
-  `DOB` varchar(200) NOT NULL,
-  `HISTORY` varchar(200) NOT NULL,
-  `MEDICINES` varchar(200) NOT NULL,
-   PRIMARY KEY (`MOBILE`)
-);
-
 
 # Description of the project :
 The project is build using Python and tkinter and uses mysql as a database
